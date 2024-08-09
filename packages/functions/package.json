@@ -1,0 +1,16 @@
+{
+  "name": "@aws-sst-saas-template/functions",
+  "version": "0.0.0",
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.620.0",
+    "@aws-sdk/lib-dynamodb": "^3.620.0",
+    "@aws-sst-saas-template/core": "*",
+    "sst": "*",
+    "stripe": "^16.5.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.142",
+    "@types/uuid": "^10.0.0"
+  }
+}
