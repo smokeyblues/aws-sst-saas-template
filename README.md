@@ -1,6 +1,6 @@
 # Serverless SaaS App Template
 
-This project is a full-stack serverless SaaS application template built with SST (Serverless Stack) and running on AWS. This template is an extension of the notes app created in [the SST guide](https://sst.dev/guide.html), modifying the storage based pricing model in the example to a fla-rate subscription model. 
+This project is a full-stack serverless SaaS application template built with SST (Serverless Stack) and running on AWS. This template is an extension of the notes app created in [the SST guide](https://sst.dev/guide.html), modifying the storage based pricing model in the example to a flat-rate subscription model. 
 
 ## Features
 
